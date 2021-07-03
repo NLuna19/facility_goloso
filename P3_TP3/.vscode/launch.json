@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "main.main",
+            "projectName": "P3_TP3"
+        },
+        {
+            "name": "Launch",
+            "type": "go",
+            "request": "launch",
+            "mode": "exec",
+            "program": "C:/sers/usuario/go/debug/debuggingGo/debuggingGo.exe",
+            "env": {},
+            "args": []
+        }
+    ]
+}

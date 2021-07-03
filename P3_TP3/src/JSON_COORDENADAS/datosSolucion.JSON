@@ -1,0 +1,25 @@
+{
+  "centros": [
+    {
+      "latitud": -34.52805569316042,
+      "longitud": -58.699092864990234,
+      "nombre": "Escuela von Neumann",
+      "distanciaPromedio": 2.617178668363891,
+      "categoria": 7
+    },
+    {
+      "latitud": -34.49811078776609,
+      "longitud": -58.68757085035063,
+      "nombre": "Heladeria BFS",
+      "distanciaPromedio": 5.019086152785041,
+      "categoria": 5
+    },
+    {
+      "latitud": -34.49388919375572,
+      "longitud": -58.70834317508364,
+      "nombre": "Las recetas de Dijkstra",
+      "distanciaPromedio": 3.746449904256868,
+      "categoria": 4
+    }
+  ]
+}

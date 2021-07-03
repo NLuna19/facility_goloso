@@ -1,0 +1,84 @@
+{
+  "clientes": [
+    {
+      "latitud": -34.48646695096387,
+      "longitud": -58.74818801879883,
+      "nombre": "Julio Cortazar"
+    },
+    {
+      "latitud": -34.49481465544369,
+      "longitud": -58.677120208740234,
+      "nombre": "Seneca"
+    },
+    {
+      "latitud": -34.506273702147595,
+      "longitud": -58.71299743652344,
+      "nombre": "Pablo De Santis"
+    },
+    {
+      "latitud": -34.50782974750188,
+      "longitud": -58.71711730957031,
+      "nombre": "Oscar Wilde"
+    },
+    {
+      "latitud": -34.51843837329508,
+      "longitud": -58.73788833618164,
+      "nombre": "Agustina"
+    },
+    {
+      "latitud": -34.534136660521916,
+      "longitud": -58.755741119384766,
+      "nombre": "Edsger Dijkstra "
+    },
+    {
+      "latitud": -34.53116694124406,
+      "longitud": -58.70664596557617,
+      "nombre": "Marcos"
+    },
+    {
+      "latitud": -34.51306350502786,
+      "longitud": -58.698062896728516,
+      "nombre": "Alan"
+    },
+    {
+      "latitud": -34.5532251837122,
+      "longitud": -58.71746063232422,
+      "nombre": "Walt Whitman"
+    },
+    {
+      "latitud": -34.55039753060477,
+      "longitud": -58.68844985961914,
+      "nombre": "Gabriela"
+    },
+    {
+      "latitud": -34.54247959069481,
+      "longitud": -58.743896484375,
+      "nombre": "Javier"
+    },
+    {
+      "latitud": -34.55138722012327,
+      "longitud": -58.75162124633789,
+      "nombre": "Julio Verne"
+    },
+    {
+      "latitud": -34.552801041872236,
+      "longitud": -58.739776611328125,
+      "nombre": "Fernando"
+    },
+    {
+      "latitud": -34.55633549113737,
+      "longitud": -58.74492645263672,
+      "nombre": "Alejandro"
+    },
+    {
+      "latitud": -34.53201544327429,
+      "longitud": -58.721580505371094,
+      "nombre": "Edgar Alan Poe"
+    },
+    {
+      "latitud": -34.49637091470728,
+      "longitud": -58.714027404785156,
+      "nombre": "Nicolas"
+    }
+  ]
+}
